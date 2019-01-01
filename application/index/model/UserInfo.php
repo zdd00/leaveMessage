@@ -1,0 +1,1 @@
+<?php/** * Created by PhpStorm. * User: ZDD * Date: 2018/12/25 * Time: 13:39 */namespace app\index\model;use think\model;class UserInfo extends model{}
